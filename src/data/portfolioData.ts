@@ -45,7 +45,7 @@ export const PROFILE = {
   githubHandle: 'jhonali3',
   githubUrl: 'https://github.com/jhonali3',
   linkedinUrl: 'https://www.linkedin.com/in/jhonalie-jotajero-812b10443/',
-  avatarUrl: '/assets/aistudio/926648734_1198488222506559_8844870312850443232_n_0b713d9c.jpg',
+  avatarUrl: './assets/aistudio/926648734_1198488222506559_8844870312850443232_n_0b713d9c.jpg',
   bio: 'I am an Information Technology student who enjoys building clean, responsive, and easy-to-use websites.',
   careerGoal:
     'I am looking forward to learning with a supportive team through IT internships and hands-on web projects.',
